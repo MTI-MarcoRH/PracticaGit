@@ -105,7 +105,7 @@ Estas son utilizadas para redirigir a archivos, secciones dentro o fuera de nues
 
 **EJEMPLO**
 
-Mi buscador favorito es:  [Google](https://wwww.google.com)
+Mi buscador favorito es:  [Google](https://www.google.com)
 
 Esta documentación fué creada por: ***M.T.I. Marco Antonio Ramírez Hernández***
 <marco.ramirez@utxicotepec.edu.mx>

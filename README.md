@@ -108,5 +108,18 @@ Estas son utilizadas para redirigir a archivos, secciones dentro o fuera de nues
 Mi buscador favorito es:  [Google](https://www.google.com)
 
 Esta documentación fué creada por: ***M.T.I. Marco Antonio Ramírez Hernández***
+
 <marco.ramirez@utxicotepec.edu.mx>
 
+### 8. Tablas (TABLES)
+
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizaqr el caractér |  para delifitar las columnas y  -  para delimitar las filas
+
+**EJEMPLO:**
+
+-----------------------------------------
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|-------------|---------------|---------------|--------------|
+|Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3| Fila 1 Celda 4|
+|Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3| Fila 2 Celda 4|
+|Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3| Fila 3 Celda 4|

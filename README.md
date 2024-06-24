@@ -111,7 +111,7 @@ Esta documentación fué creada por: ***M.T.I. Marco Antonio Ramírez Hernández
 
 <marco.ramirez@utxicotepec.edu.mx>
 
-### 8. Tablas (TABLES)
+## 8. Tablas (TABLES)
 
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizaqr el caractér |  para delifitar las columnas y  -  para delimitar las filas
 
@@ -125,7 +125,7 @@ Si la documentación lo requiere podemos presentar información en formato de ta
 |Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3| Fila 3 Celda 4|
 
 
-### 9. Imágenes 
+## 9. Imágenes 
 
 Podemos incrustar imágenes, fotos, diagramas y demás representaciones gráficas, de manera interna o externa, maquetando con un ! antes de los \[ \]  y la url de la imagen a mostrar
 

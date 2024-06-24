@@ -123,3 +123,13 @@ Si la documentación lo requiere podemos presentar información en formato de ta
 |Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3| Fila 1 Celda 4|
 |Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3| Fila 2 Celda 4|
 |Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3| Fila 3 Celda 4|
+
+
+### 9. Imágenes 
+
+Podemos incrustar imágenes, fotos, diagramas y demás representaciones gráficas, de manera interna o externa, maquetando con un ! antes de los \[ \]  y la url de la imagen a mostrar
+
+**EJEMPLO:**
+
+![Lugia](https://github.com/MTI-MarcoRH/PracticaGit/blob/main/imagenes/lugia.png)
+
